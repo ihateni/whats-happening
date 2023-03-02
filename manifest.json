@@ -1,0 +1,21 @@
+{
+  "name": "Bogor",
+  "short_name": "Bogor",
+  "description": "made by a student for you!",
+  "icons": [
+    {
+      "sizes": "192x192",
+      "type": "image/png",
+      "src": "https://cdn.glitch.global/ffc5d589-a7ba-4bbe-85a2-8d0f26777b93/terminal.png?v=1667327296430"
+    },
+    {
+      "sizes": "512x512",
+      "type": "image/png",
+      "src": "https://cdn.glitch.global/ffc5d589-a7ba-4bbe-85a2-8d0f26777b93/terminal.png?v=1667327296430"
+    }
+  ],
+	"display": "standalone",
+  "background_color": "royalblue",
+  "theme_color": "royalblue",
+  "start_url": "apps/browser/index.html"
+}
